@@ -1,0 +1,6 @@
+.vscode
+received
+output
+dataset
+scripts/encodings.pickle
+scripts/__pycache__/
