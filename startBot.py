@@ -65,8 +65,8 @@ reactObj.addReaction(userText = startOptions[0],
                      replyText = reaction1)
 
 # Reaction No.2: "I'm tottaly fine"
-reaction2 = ["Nice!\nNow I'm at kitchen preparing a nice cake 🍰, " +
-            "but Gordon Ramsay is yelling at me, ... I don't know why... ='("]
+reaction2 = ["Nice!\nNow I'm at kitchen preparing a delicious cake 🍰, " +
+            "but Gordon Ramsay is yelling at me, ... I don't know why... 😰"]
 reactObj.addReaction(userText = startOptions[1],
                      replyText = reaction2,
                      imageName = "angry_gordon.jpg")

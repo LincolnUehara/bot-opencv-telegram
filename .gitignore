@@ -4,3 +4,4 @@ output
 dataset
 scripts/encodings.pickle
 scripts/__pycache__/
+botToken.txt

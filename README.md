@@ -1,4 +1,6 @@
-# OpenCV with Telegram Bot
+# OpenCV with Telegram Bot [Version 1.0](https://github.com/LincolnUehara/bot-opencv-telegram/releases/latest)
+
+![OpenCV plus Telegram App](https://github.com/LincolnUehara/bot-opencv-telegram/blob/master/scripts/images/OpenCV_plus_Telegram.jpg)
 
 This code intends to the user have interaction with face recognition via OpenCV using Telegram Bot.
 
